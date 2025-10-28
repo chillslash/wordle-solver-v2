@@ -1,6 +1,6 @@
 # Wordle Solver v2
 
-A small interactive Wordle helper written in Java. It recommends the next guess and selects best possible answers based on how you score your guesses.
+A small interactive Wordle helper written in Java. It recommends the next guess based on how you score your guesses.
 
 ## Features
 - Interactive CLI that recommends the next best guess
